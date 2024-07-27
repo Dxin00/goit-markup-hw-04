@@ -427,10 +427,10 @@ img {
     border-right: 1px solid var(--cornflower);
 }
 
-/* .portfolio-item-wrapper {
+.portfolio-item-wrapper {
     position: relative;
     overflow: hidden;
-} */
+}
 
 .overlay {
     position: absolute;
